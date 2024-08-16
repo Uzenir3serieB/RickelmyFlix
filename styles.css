@@ -1,5 +1,10 @@
 body{
     color:aqua;
     background-color: black;
-    
+    margin:0px
+}
+header {
+    border-bottom: solid 4px rgb(114, 25, 150);
+    padding: 20px;
+    font-size: 32px;
 }
